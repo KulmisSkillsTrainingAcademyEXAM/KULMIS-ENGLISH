@@ -1,0 +1,13 @@
+body{
+background-color: rgba(190, 104, 23, 0.397);
+    background-size: cover;
+}
+table{
+    color: rgb(20, 43, 46);
+    font-size: 40px;
+   
+}
+h1{
+    color:rgb(4, 127, 228);font-family: "element";
+    font-size: 36px;
+}
