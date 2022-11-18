@@ -1,5 +1,5 @@
 
-<!Doctype html>
+
 <html>
     <title> Natiijo</title>
     <head>
@@ -44,7 +44,5 @@
                     </td>
                     <td> Caafimaad
                     </td>
-                </tr>
-                
-            </table>
+               
  
