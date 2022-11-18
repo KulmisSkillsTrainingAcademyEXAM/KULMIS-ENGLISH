@@ -1,5 +1,4 @@
 
-<!Doctype html>
 <html>
     <title> Natiijo</title>
     <head>
@@ -23,8 +22,7 @@
                         <td>  E
                         <td> English</td>
                     </td>
-                
-                <tr>
+            
                     
                 
                 <tr>
