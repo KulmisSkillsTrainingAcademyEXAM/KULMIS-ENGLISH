@@ -37,10 +37,10 @@
                 
                     <th>3. </th>
                     <td> Sabir Abdi'Asiis Mohamed </td>
-                    <td>Lama Hayo 
-                        <td> Z
+                    <td>Down 
+                        <td> H
                     </td>
-                    <td> Caafimaad
+                    <td> English
                     </td>
                 
                 
