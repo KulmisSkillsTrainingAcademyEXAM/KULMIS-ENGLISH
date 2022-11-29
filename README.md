@@ -1,4 +1,4 @@
-
+<!Doctype html>
 <html>
     <title> Natiijo</title>
     <head>
@@ -6,7 +6,7 @@
         <body>  
         
             <h1> NATIIJADA IMTIXAANKA</h1>
-            <table border="30">
+            <table border="20">
                 <tr>
                     <th>NO. </th>
                     <th>Magaca Ardayga </th>
@@ -22,27 +22,26 @@
                         <td>  E
                         <td> English</td>
                     </td>
-            
+                </tr>
+                <tr>
                     
-                
+                </tr>
                 <tr>
                     <th>2. </th>
                     <td> Mohamed Isse Abdalla </td>
-                    <td>Lama Hayo  
-                        <td>Z
+                    <td>60  
+                        <td>E
                     </td> 
                     <td> English
                     </td>
                 </tr>
-                
+                <tr>
                     <th>3. </th>
                     <td> Sabir Abdi'Asiis Mohamed </td>
-                    <td>Down 
+                    <td>DOWN
                         <td> H
                     </td>
                     <td> English
                     </td>
-                
-                
-            </table>
- 
+                </tr>
+        
